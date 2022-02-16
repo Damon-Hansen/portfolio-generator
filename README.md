@@ -1,4 +1,4 @@
-# portfolio-generator
+# Portfolio Generator
 
 ## This is a node.js application that is not published to a website. This is a way to create a developer portfolio answering questions on your terminal, by running the program with node.
 
